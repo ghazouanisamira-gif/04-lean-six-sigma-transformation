@@ -1,188 +1,182 @@
 # Lean Six Sigma Transformation
 
-## Recruitment Process Improvement — Professional Case Study
+## Recruitment Process Improvement — Black Belt Case Study
 
-A Lean Six Sigma case study demonstrating how a DMAIC approach was used to diagnose, restructure and control a recruitment process within a **Customer Contact Center / Business Process Outsourcing (BPO) environment with 250+ operational employees**.
+A real, anonymized Lean Six Sigma case study demonstrating how **DMAIC, process analysis, statistical validation and governance** were used to redesign a recruitment process and reduce early employee attrition in a Customer Contact Center / BPO environment.
 
-The project focused on an actionable performance issue: **early employee attrition within the first six months of employment**.
+> **Core result: Early attrition reduced from 28% to 10% — a 64% relative reduction.**
+
+The project ran as a long-term transformation initiative from **December 2023 to January 2026**, with the objective of making recruitment more reliable, measurable and aligned with operational workforce needs.
 
 ## Business Context
 
-The organization maintained an operational workforce of approximately **250 agents** and completed around **100 recruitment cycles per year**, primarily to replace structural employee departures in a high-turnover Contact Center environment.
+The organization operated in a high-volume customer operations environment with approximately **250 operational employees** and regular recruitment needs.
 
-The project did not attempt to eliminate structural sector turnover. Instead, it focused on the part of turnover that could be influenced through recruitment quality, selection practices, process governance and onboarding alignment.
+The project did not attempt to eliminate structural turnover inherent to the sector. It focused on the part of early attrition that could be influenced through recruitment quality, selection practices, process design, onboarding alignment and governance.
 
 ### Baseline
 
-- Operational workforce: **~250 agents**
-- Annual recruitment volume: **~100**
-- Early attrition (<6 months): **28%**
-- Initial project objective: **<15%**
-- Recruitment lead time: **2–5 working days**
-- Initial onboarding duration: **1 week**
+| Indicator | Baseline |
+|---|---:|
+| Operational workforce | ~250 |
+| Annual recruitment volume | ~100 |
+| Early attrition (<6 months) | 28% |
+| Project target | <15% |
+| Recruitment lead time | 2–5 working days |
+| Initial onboarding duration | 1 week |
 
-## Business Challenge
+## Problem
 
-Three structural weaknesses were identified during the project definition phase:
+Three interconnected weaknesses were identified:
 
-### 1. Organizational structure
+1. **Process:** recruitment activities and handoffs were not sufficiently standardized.
+2. **Data & governance:** KPI definitions, candidate tracking and performance routines needed stronger structure.
+3. **Operational alignment:** recruitment capacity and selection quality were not consistently connected to workforce requirements.
 
-Recruitment responsibilities and resources were not sufficiently aligned with the volume and quality requirements of the operation.
-
-### 2. Data & governance gap
-
-The recruitment function lacked a structured performance-management system, including consistent KPIs, centralized candidate tracking and formal coordination routines.
-
-### 3. Operational delivery risk
-
-Recruitment capacity and process performance were not consistently aligned with operational workforce requirements and service commitments.
-
-These issues limited the ability to manage recruitment as a measurable, continuously improving business process.
+This made recruitment reactive rather than fully managed as an end-to-end performance process.
 
 ## Project Objective
 
-The project aimed to:
+Reduce early employee attrition below 15% while improving recruitment quality, process reliability and governance.
 
-- Improve recruitment quality
-- Reduce early employee attrition
-- Identify and validate root causes
-- Restructure the recruitment process
-- Strengthen recruitment governance
-- Introduce measurable performance indicators
-- Improve operational workforce reliability
-- Establish sustainable controls
+### Primary Y
 
-## Methodology
+**Y = Early employee attrition within the first six months**
+
+### Success Criteria
+
+- Establish a reliable baseline.
+- Identify evidence-based root causes.
+- Redesign critical process steps.
+- Strengthen candidate selection and onboarding alignment.
+- Introduce recruitment KPIs and management routines.
+- Sustain the improvement through controls.
+
+## DMAIC Approach
 
 **Define → Measure → Analyze → Improve → Control**
 
-The project combined Lean Six Sigma with project management, process improvement, data analysis and performance management.
+The project combined Lean Six Sigma with project management, process improvement, data analysis and operational governance.
 
-## Define
+### DEFINE
 
-The project scope covered the recruitment process from candidate sourcing and screening through selection and early-stage onboarding alignment.
+- Problem statement
+- Project scope
+- Stakeholders
+- Business impact
+- Target and success criteria
+- Project charter
 
-The key performance indicator (**Y**) was early employee attrition within the first six months.
+### MEASURE
 
-The project focused on actionable process and recruitment factors rather than structural turnover inherent to the Contact Center sector.
+The measurement system covered:
 
-## Measure
+- recruitment volume
+- candidate flow
+- recruitment cycle time
+- stage conversion
+- onboarding completion
+- early attrition
+- operational workforce requirements
 
-The measurement phase established a baseline for:
+The objective was to establish a consistent baseline before selecting improvement actions.
 
-- Recruitment volume
-- Recruitment lead time
-- Candidate flow
-- Candidate conversion
-- Early attrition
-- Onboarding performance
-- Operational workforce requirements
+### ANALYZE
 
-The project progressively introduced structured recruitment data and performance monitoring to support evidence-based decisions.
+The project moved from hypotheses to evidence using:
 
-## Analyze
-
-The analysis combined process and statistical techniques.
-
-### Tools & Techniques
-
-- Value Stream Mapping (VSM)
-- Pareto Analysis
-- Cause & Effect Analysis
+- **Value Stream Mapping (VSM)**
+- Pareto analysis
+- Cause & Effect analysis
 - Root Cause Analysis
-- Chi-Square Analysis
-- Logistic Regression
-- Process analysis
-- KPI analysis
+- **Chi-Square analysis**
+- **Logistic Regression**
+- KPI and process analysis
 
-The objective was to move from assumptions to evidence-based identification of the factors associated with early attrition.
+Statistical techniques were used as decision-support tools; relationships were interpreted in context rather than treated as automatic proof of causation.
 
-## Improve
+### IMPROVE
 
-Improvement actions focused on:
+Validated improvement areas included:
 
-- Recruitment process redesign
-- Candidate screening and selection
-- Role and responsibility clarification
-- Recruitment workflow standardization
-- Stakeholder handoffs
-- Onboarding alignment
-- Recruitment KPI implementation
-- Performance dashboards
-- Structured management routines
-- Capability development
+- recruitment workflow redesign
+- screening and selection practices
+- role and responsibility clarification
+- process standardization
+- stakeholder handoffs
+- onboarding alignment
+- KPI implementation
+- performance dashboards
+- management routines
+- capability development
 
-The transformation combined process improvement with organizational and governance changes.
+### CONTROL
+
+The improved process was supported by:
+
+- standardized procedures
+- recruitment KPI monitoring
+- dashboards
+- process ownership
+- periodic performance reviews
+- corrective action tracking
+- continuous improvement routines
+
+The objective was to embed the new operating model into normal management rather than treat it as a one-off project.
 
 ## Results
-
-The project achieved measurable improvement in the main project indicator:
 
 | Indicator | Baseline | Result |
 |---|---:|---:|
 | Early attrition (<6 months) | **28%** | **10%** |
-| Relative improvement | — | **−64%** |
-| Initial objective | **<15%** | **Achieved** |
-| Operational SLA compliance | **60–70% range previously observed** | **100%** |
+| Relative reduction | — | **−64%** |
+| Initial target | **<15%** | **Achieved** |
+| Operational SLA compliance | 60–70% range previously observed | 100% |
 
-The reduction from 28% to 10% corresponds to approximately **18 fewer early departures per year** at the project baseline volume.
+At the baseline recruitment volume, the reduction from 28% to 10% represented approximately **18 fewer early departures per year**.
 
-The result demonstrates the impact of combining process redesign, recruitment governance, structured data and continuous improvement.
+The result demonstrates the combined effect of process redesign, recruitment governance, structured measurement and continuous improvement. It should not be attributed to a single intervention in isolation.
 
 ## Business Impact
 
-The project generated impact across several dimensions:
+The transformation supported:
 
-- Fewer early replacement requirements
-- Improved recruitment quality
-- Greater workforce stability
-- Stronger recruitment visibility
-- Better alignment between Recruitment and Operations
-- Improved ability to monitor performance
-- More sustainable process ownership
+- fewer early replacement requirements
+- improved workforce stability
+- stronger recruitment visibility
+- better Recruitment–Operations alignment
+- more structured performance management
+- clearer process ownership
+- a stronger foundation for automation
 
-Financial benefits were also modeled as part of the original Black Belt project. Detailed internal financial assumptions are intentionally excluded from this public repository.
-
-## Control
-
-The control phase focused on sustaining the improvement through:
-
-- Recruitment KPI monitoring
-- Standardized procedures
-- Management dashboards
-- Process ownership
-- Periodic performance reviews
-- Corrective action tracking
-- Continuous improvement routines
-
-The objective was to make the improved process part of normal operational management rather than a one-time project intervention.
+Detailed internal financial assumptions and ROI calculations are intentionally excluded from this public repository.
 
 ## AI & Future-State Opportunities
 
-Once the recruitment process had been standardized and data structured, several opportunities for further digital and AI-enabled improvement were identified.
-
-Potential use cases included:
+Once the process was standardized and data structured, additional opportunities were identified:
 
 - AI-assisted candidate screening
-- Automated pre-qualification
-- Multi-channel recruitment flow management
-- Candidate/profile matching
-- Recruitment content generation
-- Early-attrition risk monitoring
+- automated pre-qualification
+- candidate/profile matching
+- multi-channel recruitment workflow support
+- recruitment content generation
+- early-attrition risk monitoring
 
-These represent **identified opportunities and feasibility hypotheses**, not claims of full AI deployment.
+These are **future-state opportunities**, not claims of full AI deployment.
 
-The strategic sequence is:
+Strategic sequence:
 
 **Standardize → Structure Data → Measure → Automate → Augment with AI**
 
-## Professional Approach
+## What This Case Demonstrates
 
-**Define → Measure → Analyze → Improve → Control → Sustain**
+This project illustrates the ability to combine:
 
-My approach combines **Lean Six Sigma, project management, data-driven decision making, operational excellence and governance**.
+**Lean Six Sigma + Project Management + Data Analysis + Process Improvement + Governance + Change Management**
 
-The objective is not only to solve a performance problem, but to build the process, measurement system, ownership and controls required to sustain the improvement.
+The value is not only the final KPI improvement. It is the ability to connect:
+
+**Business Problem → Process → Measurement → Root Cause → Improvement → Control → Sustainable Performance**
 
 ## Repository Structure
 
@@ -190,53 +184,18 @@ The objective is not only to solve a performance problem, but to build the proce
 04-lean-six-sigma-transformation/
 ├── README.md
 ├── case-study/
-│   ├── business-context.md
-│   ├── problem-definition.md
-│   ├── project-objectives.md
-│   └── results.md
 ├── dmaic/
-│   ├── 01-define.md
-│   ├── 02-measure.md
-│   ├── 03-analyze.md
-│   ├── 04-improve.md
-│   └── 05-control.md
 ├── analysis/
-│   ├── process-analysis.md
-│   ├── root-cause-analysis.md
-│   └── statistical-analysis.md
 ├── governance/
-│   ├── recruitment-governance.md
-│   └── control-plan.md
 ├── ai-opportunities/
-│   └── recruitment-ai-roadmap.md
 └── templates/
-    └── project-charter.md
 ```
-
-## Skills Demonstrated
-
-- Lean Six Sigma Black Belt methodology
-- DMAIC
-- Project Management
-- Process Improvement
-- Operational Excellence
-- Data Analysis
-- Statistical Analysis
-- Root Cause Analysis
-- Recruitment Process Improvement
-- KPI & Performance Management
-- Governance
-- Change Management
-- Continuous Improvement
-- AI opportunity assessment
 
 ## Confidentiality
 
-This case study is based on professional experience within a Customer Contact Center / BPO environment.
+The company, clients, employees, candidate data, proprietary tools, detailed financial assumptions and sensitive operational information are excluded.
 
-The company name, client names, employee information, customer information, proprietary tools, detailed financial assumptions and other sensitive operational data have been excluded.
-
-The repository focuses on the **methodology, transformation approach, measurable outcomes and transferable project-management practices**.
+The repository intentionally focuses on **methodology, analytical reasoning, transformation logic, validated outcomes and transferable practices**.
 
 ## Author
 
