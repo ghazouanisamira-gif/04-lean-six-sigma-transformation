@@ -214,8 +214,6 @@ This Black Belt case focuses on the **Lean Six Sigma transformation and statisti
 
 ## People & Capability Development
 
-The improvement approach also considered the human side of process performance. Capability gaps identified during analysis could be addressed through structured onboarding, competency assessment, targeted training, coaching, debriefing, practical job aids, manager support and follow-up.
+The human-performance dimension is part of the transformation, but the reusable capability-development framework is maintained separately in [People Development & Manager Enablement](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement).
 
-Development mechanisms included level assessments, training-needs analysis, coaching and debrief sheets, evaluation criteria, learning modules, micro-learning / MOOC-style learning, knowledge checks, team workshops and capability follow-up.
-
-The principle was **diagnose before training**: distinguish people capability issues from process, tool, information, workload or governance causes. This prevented training from being used as a substitute for process improvement.
+This case therefore focuses on the **Lean Six Sigma, statistical-analysis and process-transformation evidence**, while Repo 10 centralizes the broader people-development methods and templates.
