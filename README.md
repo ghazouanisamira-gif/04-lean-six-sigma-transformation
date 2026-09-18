@@ -204,3 +204,9 @@ The repository intentionally focuses on **methodology, analytical reasoning, tra
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
 
 **Quality & PMO | Project & Operational Excellence | Risk Management**
+
+## Related Portfolio Evidence
+
+This Black Belt case focuses on the **Lean Six Sigma transformation and statistical improvement dimension** of recruitment. A complementary repository presents the broader recruitment operating model, workforce alignment and capability-development dimension:
+
+- [Recruitment Process Improvement](https://github.com/ghazouanisamira-gif/05-recruitment-process-improvement)
