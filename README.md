@@ -210,3 +210,12 @@ PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
 This Black Belt case focuses on the **Lean Six Sigma transformation and statistical improvement dimension** of recruitment. A complementary repository presents the broader recruitment operating model, workforce alignment and capability-development dimension:
 
 - [Recruitment Process Improvement](https://github.com/ghazouanisamira-gif/05-recruitment-process-improvement)
+
+
+## People & Capability Development
+
+The improvement approach also considered the human side of process performance. Capability gaps identified during analysis could be addressed through structured onboarding, competency assessment, targeted training, coaching, debriefing, practical job aids, manager support and follow-up.
+
+Development mechanisms included level assessments, training-needs analysis, coaching and debrief sheets, evaluation criteria, learning modules, micro-learning / MOOC-style learning, knowledge checks, team workshops and capability follow-up.
+
+The principle was **diagnose before training**: distinguish people capability issues from process, tool, information, workload or governance causes. This prevented training from being used as a substitute for process improvement.
