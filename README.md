@@ -137,6 +137,20 @@ At the baseline recruitment volume, the reduction from 28% to 10% represented ap
 
 The result demonstrates the combined effect of process redesign, recruitment governance, structured measurement and continuous improvement. It should not be attributed to a single intervention in isolation.
 
+### How the result was measured
+
+- **Early attrition:** share of employees leaving within the first six months.
+- **Relative reduction:** `(baseline − result) / baseline × 100`.
+- **Operational SLA compliance:** share of monitored recruitment activities meeting the defined service-level requirement.
+- Statistical analysis was used as decision support for association and root-cause analysis. **Raw datasets, cohort-level inferential outputs, p-values and odds ratios are not published** because the underlying employee/candidate data is confidential.
+
+### Limits
+
+- The public repository does not publish the underlying candidate/employee dataset or cohort-level statistical tables.
+- The 28% → 10% change is an observed project outcome; it should not be interpreted as proof that one intervention alone caused the improvement.
+- Sector-specific turnover drivers may remain outside recruitment-process control.
+- Financial ROI and detailed cost assumptions are intentionally excluded.
+
 ## Business Impact
 
 The transformation supported:
